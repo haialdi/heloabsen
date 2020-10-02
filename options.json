@@ -1,0 +1,4 @@
+{
+  "login": "login/index.php",
+  "stepOne": "mod/attendance/view.php?id=348&mode=1"
+}
